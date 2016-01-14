@@ -13,8 +13,8 @@ body {
      padding: 20px;
 }
 
-.container {
-     background-color: #677077;
+h4 {
+     color: white;
 }
 
 .project {
@@ -29,6 +29,7 @@ body {
 .jumbotron {
 	position: relative;
 	background: none;
+     color: white;
 }
 
 .jumbotron:after {
